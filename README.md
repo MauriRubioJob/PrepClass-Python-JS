@@ -1,1 +1,1 @@
-On this repositorie I keep some of the code for the classes preparation during my time as a Software Development teacher.
+On this Repo I keep some of the code for the classes preparation during my time as a Software Development teacher.

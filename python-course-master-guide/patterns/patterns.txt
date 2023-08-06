@@ -1,0 +1,108 @@
+
+Square
+x x x x x x x 
+x x x x x x x 
+x x x x x x x 
+x x x x x x x 
+x x x x x x x 
+x x x x x x x 
+x x x x x x x 
+
+
+Growing triangle
+x 
+x x 
+x x x 
+x x x x 
+x x x x x 
+x x x x x x 
+x x x x x x x 
+
+
+Shrinking triangle
+x x x x x x x  
+x x x x x x    
+x x x x x      
+x x x x        
+x x x          
+x x            
+x              
+
+
+Hollow square
+x x x x x x x 
+x           x 
+x           x 
+x           x 
+x           x 
+x           x 
+x x x x x x x 
+
+
+
+Pyramid
+      x       
+    x x x     
+  x x x x x   
+x x x x x x x 
+
+
+Arrow
+      x       
+    x x x     
+  x x x x x   
+x x x x x x x 
+    x x x 
+    x x x 
+    x x x 
+
+
+
+Square with corners
+- x x x x x - 
+x x x x x x x 
+x x x x x x x 
+x x x x x x x 
+x x x x x x x 
+x x x x x x x 
+- x x x x x - 
+
+
+Diagonal line
+x - - - - - - 
+- x - - - - - 
+- - x - - - - 
+- - - x - - - 
+- - - - x - - 
+- - - - - x - 
+- - - - - - x 
+
+
+Reverse diagonal line
+- - - - - - x 
+- - - - - x - 
+- - - - x - - 
+- - - x - - - 
+- - x - - - - 
+- x - - - - - 
+x - - - - - - 
+
+
+Cross
+x - - - - - x 
+- x - - - x - 
+- - x - x - - 
+- - - x - - - 
+- - x - x - - 
+- x - - - x - 
+x - - - - - x 
+
+
+Alternating
+x - x - x - x 
+- x - x - x - 
+x - x - x - x 
+- x - x - x - 
+x - x - x - x 
+- x - x - x - 
+x - x - x - x 
